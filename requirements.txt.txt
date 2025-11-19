@@ -1,0 +1,6 @@
+ music21
+ tensorflow
+ numpy
+ keras 
+pretty_midi 
+mido
